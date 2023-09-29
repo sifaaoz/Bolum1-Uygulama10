@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bolum1-Uygulama10", "Bolum1-Uygulama10\Bolum1-Uygulama10.csproj", "{04AEE9C5-1C41-4389-B0BD-BCBAE6465782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04AEE9C5-1C41-4389-B0BD-BCBAE6465782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AEE9C5-1C41-4389-B0BD-BCBAE6465782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AEE9C5-1C41-4389-B0BD-BCBAE6465782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AEE9C5-1C41-4389-B0BD-BCBAE6465782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35124BA7-CBA8-485D-AF4C-1D640DDF1091}
+	EndGlobalSection
+EndGlobal
